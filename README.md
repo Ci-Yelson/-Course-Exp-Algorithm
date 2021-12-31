@@ -26,4 +26,4 @@
 
 跳马问题BFS&Astar对比
 
-![img1](F:\No.windows\typora-user-images\跳马问题BFS&Astar对比.png)
+![img2](跳马问题BFS&Astar对比.png)
